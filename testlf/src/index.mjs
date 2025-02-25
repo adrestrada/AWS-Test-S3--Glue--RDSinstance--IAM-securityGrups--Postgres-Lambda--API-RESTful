@@ -2,11 +2,11 @@ import pkg from 'pg';
 const { Pool } = pkg;
 
 const pool = new Pool({
-  user: 'postgres',
+  user: 'USER',
   password: '$$$$$',
-  host: 'db-identifier-aws-postgre.cj6s66gsqow2.us-east-2.rds.amazonaws.com',
-  port: 5432,
-  database: 'sampleDB', // Aquí se cambió el nombre de la base de datos
+  host: 'db-identifier-aws-postgre.kshfgsY77292Lgsqow2.us-east-4.rds.amazonaws.com',
+  port: 4431,
+  database: 'database', // Aquí se cambió el nombre de la base de datos
   ssl: { rejectUnauthorized: false }
 });
 
