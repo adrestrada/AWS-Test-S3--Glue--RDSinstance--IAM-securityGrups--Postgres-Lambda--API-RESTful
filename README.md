@@ -1,4 +1,4 @@
-# AWS-Test-S3--Glue--RDSinstance--IAM-securityGrups--Postgres-Lambda--API-RESTful
+# AWS -S3--Glue--RDSinstance--IAM-securityGrups--Postgres-Lambda--API-RESTful- Vectorized Database
 
 Vectorized Database (Pinecone, FAISS)|
 |  (Stores vectorized data for similarity searches, for example, embeddings)|
